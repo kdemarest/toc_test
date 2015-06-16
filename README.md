@@ -8,6 +8,8 @@ lorem ipsum
 
 # Overview
 
+<img src="http://images.wisegeek.com/green-frog.jpg">
+
 lorem ipsum 
 
 # First Topic
