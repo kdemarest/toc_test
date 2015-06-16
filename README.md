@@ -1,3 +1,7 @@
+<script>
+  alert('a');
+</script>
+
 # Document Title
 
 lorem ipsum
